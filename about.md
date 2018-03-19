@@ -4,4 +4,4 @@ title: About
 permalink: /about/
 ---
 
-プログラマ/Qiitaポエマー
+子育て中のプログラマ
